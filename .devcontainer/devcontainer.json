@@ -1,6 +1,6 @@
 {
   "name": "reactts-webapp-lib",
-  "dockerComposeFile": "./docker-compose",
+  "dockerComposeFile": "./docker-compose.yml",
   "service": "webapp-lib",
   "workspaceFolder": "/workspace/reactts-webapp-lib",
   "customizations": {
