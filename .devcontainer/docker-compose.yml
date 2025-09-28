@@ -1,0 +1,7 @@
+services:
+  webapp-lib:
+    # may need to change the image
+    image: node:24.9-alpine3.21
+    volumes:
+      - ../:/workspace/reactts-webapp-lib
+    command: /bin/sh -c "while sleep 1000; do :; done"

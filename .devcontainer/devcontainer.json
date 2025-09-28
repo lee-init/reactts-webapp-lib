@@ -1,0 +1,14 @@
+{
+  "name": "reactts-webapp-lib",
+  "dockerComposeFile": "./docker-compose",
+  "service": "webapp-lib",
+  "workspaceFolder": "/workspace/reactts-webapp-lib",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dsznajder.es7-react-js-snippets"
+      ]
+    }
+  },
+  "postCreateCommand": "sudo chown -R node /workspace"
+}
