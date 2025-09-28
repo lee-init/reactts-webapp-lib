@@ -8,17 +8,11 @@ This repository holds the frontend components, such as buttons and search bars, 
 
 This component library can be re-used if need be
 
-## Getting Started
+## Getting Started - 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### How to Use
 
